@@ -14,14 +14,14 @@ Your repos are private and only you and the instructors can access them. Not eve
 
 The repository **Organization**
 https://github.com/CU-F23-MDSSB-01-Concepts-Tools/Organization
-is used to provides non-public information about the course, e.g. lists of student projects.
+is used to provide non-public information about the course, e.g. lists of student projects.
 
-The repositories ***discussions** features can be used as a safe space for practical help. Use it when you have problems to set up!
+The repositories **discussions** features can be used as a safe space for practical help. Use it when you have problems to set up!
 Maybe there is already a solution or some practical information there
 https://github.com/CU-F23-MDSSB-01-Concepts-Tools/Organization/discussions
 
 
-### Become a member of the organization
+### Become a member of the organization ⭐
 
 As a registered student in the courses you must **enter your GitHub username** here:   
 https://forms.office.com/e/fraU0w0gQq    
