@@ -6,8 +6,8 @@ Most stuff in this organization is private, except for the website with the syll
 
 👩‍💻 https://cu-f23-mdssb-01-concepts-tools.github.io/Website/
 
-A registered student in the courses must **enter their GitHub username** here:
-https://forms.office.com/e/fraU0w0gQq 
+A registered student in the courses must **enter their GitHub username** here:   
+https://forms.office.com/e/fraU0w0gQq    
 (Registration is only possible with your Constructor University Credentials, only users related to the courses will be accepted)
 
 
